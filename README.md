@@ -1,4 +1,4 @@
-## Hi there 👋
+![Pac-Man Contribution Graph](./pacman-contribution-graph.svg)
 
 <!--
 **vijaytech0067/vijaytech0067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Pac-Man Contribution Graph](./pacman-contribution-graph.svg)
+

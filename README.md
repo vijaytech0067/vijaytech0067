@@ -100,10 +100,6 @@ A healthcare management project focused on digital hospital operations.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaytech0067&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaytech0067&layout=compact&theme=dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=vijaytech0067&theme=dark&hide_border=true)
 
 </div>
